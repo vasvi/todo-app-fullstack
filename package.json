@@ -1,0 +1,19 @@
+{
+  "name": "todo-app-fullstack",
+  "version": "1.0.0",
+  "description": "full stack todo app with nextjs and nestjs",
+  "main": "index.js",
+  "scripts": {
+  },
+  "workspaces":["apps/*"],
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "nest",
+    "next"
+  ],
+  "author": "vasvi",
+  "license": "ISC"
+}
